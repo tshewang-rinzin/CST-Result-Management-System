@@ -1,2 +1,0 @@
-CST-Result-Management-System
-============================
